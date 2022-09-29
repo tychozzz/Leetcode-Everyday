@@ -1,4 +1,7 @@
 ## Introduction
+
+[中文文档](https://github.com/ltyzzzxxx/Leetcode-Everyday/blob/main/README.md)
+
 This Leetcode problem-solution warehouse is created to encourage myself to persist in writing leetcode-problem-solutions every day.
 
 All the solutions is combined with the solutions shared by Leetcode predecessors and my own understanding.
