@@ -7,6 +7,6 @@
 
 结合LC前辈们分享的题解，再加入自己的理解整理而成。
 
-为尽可能地将将做题与总结相结合并保证一定的效率，题解大部分以文字形式呈现。
+目前该仓库所有题解均已同步Leetcode。如有需要，请进入[Wiki](https://github.com/ltyzzzxxx/Leetcode-Everyday/wiki)查找对应的Leetcode题解。
 
-本人能力有限，目前仅采用Java与Python3编写题解，望见谅。
+我的[Leetcode主页](https://leetcode.cn/u/ltyzzz/)
