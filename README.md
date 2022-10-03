@@ -9,4 +9,6 @@
 
 目前该仓库所有题解均已同步Leetcode。如有需要，请进入[Wiki](https://github.com/ltyzzzxxx/Leetcode-Everyday/wiki)查找对应的Leetcode题解。
 
-我的[Leetcode主页](https://leetcode.cn/u/ltyzzz/)
+点击[这里](https://leetcode.cn/u/ltyzzz/)，进入我的Leetcode主页~
+
+点击[这里](https://ltyzzzxxx.github.io/)，进入我的个人博客~
