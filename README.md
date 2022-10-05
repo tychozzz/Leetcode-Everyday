@@ -7,7 +7,9 @@
 
 结合LC前辈们分享的题解，再加入自己的理解整理而成。
 
-目前该仓库所有题解均已同步Leetcode。如有需要，请进入[Wiki](https://github.com/ltyzzzxxx/Leetcode-Everyday/wiki)查找对应的Leetcode题解。
+目前该仓库所有题解均已同步Leetcode。
+
+如有需要，请进入[Wiki](https://github.com/ltyzzzxxx/Leetcode-Everyday/wiki)查找对应的Leetcode题解以及相应的题目分类题单。
 
 点击[这里](https://leetcode.cn/u/ltyzzz/)，进入我的Leetcode主页~
 
